@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Intro</title>
+        <title>Writing HTML</title>
     </head>
     <body>
         <?php
