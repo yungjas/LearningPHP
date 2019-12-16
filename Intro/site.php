@@ -5,6 +5,7 @@
         <title>Intro</title>
     </head>
     <body>
+        <!--echo is the same as print statements/>
         <?php
             echo("Hello World");
         ?>

@@ -5,6 +5,7 @@
         <title>Writing HTML</title>
     </head>
     <body>
+        <!--echo and html elements can be used together/>
         <?php
             echo "<h1>Jasmine's site</h1>";
             echo "<hr>";
