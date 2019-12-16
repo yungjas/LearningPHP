@@ -12,6 +12,6 @@
 1. Go to your environment variables
 2. Edit the path variable (User variables), add in the directory where the php files were extracted
 
-### Starting the server (to test whether you have successfully installed PHP on your computer)
+### Starting the server
 1. Navigate to desired directory where you want to put your files
-2. Use php -S localhost:4000
+2. Use php -S localhost:4000 --> server should successfully start if your installation is successful
