@@ -6,7 +6,9 @@
     </head>
     <body>
         <?php
-            echo("Hello World");
+            echo "<h1>Jasmine's site</h1>";
+            echo "<hr>";
+            echo "<p>This is my site</p>";
         ?>
     </body>
 </html>
