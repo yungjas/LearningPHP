@@ -1,5 +1,4 @@
 # LearningPHP
-* Includes instructions for inital setup + other notes
 * Tutorial that I'm following: https://www.youtube.com/watch?v=OK_JCtrrv-c&list=WL&index=127&t=1412s
 
 ## Instructions for initial setup
