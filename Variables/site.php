@@ -5,7 +5,7 @@
         <title>Writing HTML</title>
     </head>
     <body>
-        <!--Variables are indicated by a $ sign/> -->
+        <!--Variables are indicated by a $ sign-->
         <?php
             $characterName = "Tom";
             $characterAge = 35;
